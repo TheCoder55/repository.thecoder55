@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<addon id="resource.uisounds.Xb36OGS" version="0.1.0" name="Xbox 360 Original Sounds" provider-name="TheCoder55">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.uisounds"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Xbox 360 Original Sounds</summary>
+    <description lang="en">Xbox 360 Original Sounds</description>
+    <platform>all</platform>
+  </extension>
+</addon>

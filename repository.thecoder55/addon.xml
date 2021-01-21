@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.thecoder55" name="TheCoder55's Repository" version="0.0.1" provider-name="TheCoder55">
+    <extension point="xbmc.addon.repository" name="TheCoder55's Repository">
+        <info compressed="true">https://github.com/thecoder55/repository.thecoder55/raw/master/addons.xml</info>
+        <datadir zip="true">https://raw.githubusercontent.com/thecoder55/repository.thecoder55/master/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>TheCoder55's Repository</summary>
+        <platform>all</platform>
+    </extension>
+</addon>
